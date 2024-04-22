@@ -36,4 +36,4 @@ When working with the project, the following assumptions were made:
 - Documentation: Improving documentation to ensure that all functionalities are well explained and easy to understand for other developers.
 
 
-<img src="../restaurants-uk/src/assets/screenshot.png" alt="screenshot-webapp"/>
+screenshot![screenshot](<../../../Screenshot 2024-04-22 at 16.10.25.png>)
