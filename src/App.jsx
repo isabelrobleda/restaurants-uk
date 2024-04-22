@@ -4,7 +4,7 @@ import RestaurantsList from "./components/RestaurantsList";
 function App() {
   return (
     <>
-      <div className="flex flex-col items-center">
+      <div className="flex flex-col items-center mx-4">
         <h1 className="font-semibold text-xl p-8">Restaurants Near You</h1>
         <RestaurantsList />
       </div>
