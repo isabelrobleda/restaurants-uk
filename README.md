@@ -35,5 +35,4 @@ When working with the project, the following assumptions were made:
 - Security Measures: such as HTTPS and ensuring data validation to protect against possible attacks
 - Documentation: Improving documentation to ensure that all functionalities are well explained and easy to understand for other developers.
 
-
-screenshot![screenshot](<../../../Screenshot 2024-04-22 at 16.10.25.png>)
+![screenshot](../restaurants-uk/public/screenshot.png)
