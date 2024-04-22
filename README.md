@@ -21,5 +21,3 @@ To install the dependencies of this project, run the following commands:
 ## Features
 - List of restaurants displayed with name, cuisines, rating, and address.
 - Responsive design for various screen sizes.
-
-![image of web application] (./assets/restaurants-leeds.png)
