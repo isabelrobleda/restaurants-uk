@@ -33,4 +33,7 @@ When working with the project, the following assumptions were made:
 - Error handeling: I would expand the error handling to manage and get the reports of possible errors like network errors.
 - Testing: I would also add a unit testing to make myself sure that the application maintains its functionality if changes happen so I can fix error quickly. 
 - Security Measures: such as HTTPS and ensuring data validation to protect against possible attacks
-- Documentation: Improving documentation to ensure that all functionalities are well explained and easy to understand for other developers .
+- Documentation: Improving documentation to ensure that all functionalities are well explained and easy to understand for other developers.
+
+
+<img src="../restaurants-uk/src/assets/screenshot.png" alt="screenshot-webapp"/>
