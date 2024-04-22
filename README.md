@@ -22,4 +22,15 @@ To install the dependencies of this project, run the following commands:
 - List of restaurants displayed with name, cuisines, rating, and address.
 - Responsive design for various screen sizes.
 
-![image of web application] (./assets/restaurants-leeds.png)
+## Assumptions 
+When working with the project, the following assumptions were made: 
+- Data: it was assumed that the data provided was consistent and that specific data such as "rating", it was expected for me to fetch the starRating of each restaurant
+- I assume that users will have the versions of node and npm needed to setup the application
+- This application does not provide security measures since it is not handeling personal data and it is only used as a challange.
+
+## Improvements
+- User Interface: I would improve the UI with more interactive elements like filters (for the cusine for example), that the user is able to search by the name of the restaurant or that they can sort by rating.
+- Error handeling: I would expand the error handling to manage and get the reports of possible errors like network errors.
+- Testing: I would also add a unit testing to make myself sure that the application maintains its functionality if changes happen so I can fix error quickly. 
+- Security Measures: such as HTTPS and ensuring data validation to protect against possible attacks
+- Documentation: Improving documentation to ensure that all functionalities are well explained and easy to understand for other developers .
